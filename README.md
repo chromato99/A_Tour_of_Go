@@ -1,2 +1,5 @@
 # A_Tour_of_Go
-Exercise code on the Tour of Go web page
+These are the codes I wrote to personally solve the exercise codes on the 'A Tour of Go' web page.
+
+# Reference
+https://go.dev/tour/list 
